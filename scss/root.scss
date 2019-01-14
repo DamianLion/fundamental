@@ -1,5 +1,4 @@
-@import "./../settings";
-@import "./../mixins";
+@import "base";
 
 :root {
   @each $type, $shades in $fd-colors {
